@@ -33,7 +33,7 @@ monitors:
     linkable: true # allows the title to be a link, default=true
 
   - id: nezha-dashboard
-    name: nezha monitor dashboard
+    name: nezha-monitor-dashboard
     url: 'https://solid-dara-test68-37aeb086.koyeb.app/'
     method: GET
     expectStatus: 200
