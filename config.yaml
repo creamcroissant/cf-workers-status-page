@@ -37,3 +37,9 @@ monitors:
     url: 'https://nezha.cream.nyc.mn/'
     method: GET
     expectStatus: 200
+
+  - id: koyeb-service
+    name: koyeb-service-status
+    url: 'https://solid-dara-test68-37aeb086.koyeb.app/'
+    method: GET
+    expectStatus: 400
