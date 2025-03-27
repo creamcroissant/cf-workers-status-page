@@ -34,6 +34,6 @@ monitors:
 
   - id: nezha-dashboard
     name: nezha-monitor-dashboard
-    url: 'https://solid-dara-test68-37aeb086.koyeb.app/'
+    url: 'https://nezha.cream.nyc.mn/'
     method: GET
     expectStatus: 200
